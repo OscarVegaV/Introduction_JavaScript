@@ -8,10 +8,10 @@ h1, p, a {
     font-family: 'Carrois Gothic SC', sans-serif;
     display: block;
     text-align: center;
-    line-height:.8;
+    line-height: 0.8;
     color: white;
 }
-.contenido {
+.content {
     max-width: 1200px;
     margin: 5rem auto 0 auto;
     color: white;
@@ -21,7 +21,8 @@ h1, p, a {
 h1 {
     font-size: 4rem;
 }
-a {
+a,
+ol {
     font-size: 1.4rem;
 }
 p {
@@ -31,3 +32,21 @@ p {
 .hashtag {
     font-family: Arial, Helvetica, sans-serif;
 }
+.instructions {
+    padding: 20px;
+    margin: 0 0 25px;
+    overflow: hidden;
+    border-radius: 35px 0px;
+    border: 2px solid #5878ca;    
+}
+li {
+    list-style-type: none; /* Se aplica directamente a li */
+    color: yellow;
+}
+
+ul {
+    padding-left: 0; /* Para eliminar el padding por defecto */
+}
+
+  
+  
