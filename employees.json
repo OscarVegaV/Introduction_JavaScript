@@ -1,0 +1,24 @@
+{
+  "employees" : [
+    {
+      "id" : 1,
+      "name": "Oscar Vega",
+      "profession": "Web Developer"
+    },
+    {
+      "id" : 2,
+      "name": "Karina ",
+      "profession": "UX / UI"
+    },
+    {
+      "id" : 3,
+      "name": "Josue",
+      "profession": "Tester"
+    },
+    {
+      "id" : 4,
+      "name": "Santiago",
+      "profession": "PO"
+    }
+  ]
+}
